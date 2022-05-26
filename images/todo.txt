@@ -1,0 +1,1 @@
+将eblog的内容复制到blog中，并删除eblog目录。
