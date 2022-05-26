@@ -1,0 +1,2 @@
+dubbo-admin.war 文件太大~35.1M。故删除。
+版本为version=2.6.0 groupId=com.alibaba artifactId=dubbo-admin
